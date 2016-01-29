@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Simon Goff - Musician]]></title>
         <description><![CDATA[Simon Goff - Musician]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simon-goff-musician/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 17:20:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 17:23:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simon-goff-musician/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec60081d-7ec3-46ec-bdf8-3c521ddd088f.jpg">]]></description>
-            <link>undefineda79a2035-632f-4630-8e0f-af3e871012b7/index.html</link>
+            <description><![CDATA[<p>About</p>]]></description>
+            <link>https://thegrid.ai/simon-goff-musician/a79a2035-632f-4630-8e0f-af3e871012b7/index.html</link>
             <guid isPermaLink="false">a79a2035-632f-4630-8e0f-af3e871012b7</guid>
-            <pubDate>Fri, 29 Jan 2016 17:20:01 GMT</pubDate>
+            <pubDate>Fri, 29 Jan 2016 17:22:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
