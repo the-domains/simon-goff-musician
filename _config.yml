@@ -1,7 +1,7 @@
 name: Simon Goff - Musician
 favicon: null
 layout_spectrum: 0.2705523076001555
-typography_spectrum: 0.7224265893455595
+typography_spectrum: 0.16281
 title: Simon Goff
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.7119078820105642
-  lightness: 0.7282629872206599
+  lightness: 0.5625
   saturation: 0.6245029726997018
-  rhythmicContrast: 0.6268663932569325
+  rhythmicContrast: 0.25
 purpose: []
