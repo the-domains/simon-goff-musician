@@ -1,20 +1,4 @@
-name: Simon Goff - Musician
-favicon: null
-layout_spectrum: 0.2705523076001555
 typography_spectrum: 0.16281
-title: Simon Goff
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5625
   saturation: 0.6245029726997018
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2705523076001555
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Simon Goff - Musician
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ''
 purpose: []
